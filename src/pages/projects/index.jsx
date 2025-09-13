@@ -399,7 +399,7 @@ export default function Projects() {
 			tag: "Phoenix Aquila",
 			name: "Phoenix Aquila",
 			description:
-				"A 196 kW grid-connected solar PV plant on the rooftop of Phoenix Aquila in Ranga Reddy District, Hyderabad.",
+				"A 196 kW grid-connected solar PV plant on the rooftop of Phoenix Aquila in Ranga Reddy District, Hyderabad, Telangana.",
 			paths: [
 				"/images/companies/28/3.jpg",
 
@@ -412,7 +412,7 @@ export default function Projects() {
 			tag: "Crematorium",
 			name: "Crematorium",
 			description:
-				"A 33 kW grid-connected solar PV plant installed on multiple rooftops of Mahaprasthanam Crematorium in Shaikpet, Hyderabad.",
+				"A 33 kW grid-connected solar PV plant installed on multiple rooftops of Mahaprasthanam Crematorium in Shaikpet, Hyderabad, Telangana.",
 			paths: ["/images/companies/29/1.jpg", "/images/companies/29/2.jpg"],
 		},
 	]
