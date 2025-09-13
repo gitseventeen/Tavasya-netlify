@@ -35,7 +35,7 @@ export default function FooterComponent() {
 			</div>
 
 			<p className={styles.description}>
-				&copy;Copyright 2012 - 2023 | TAVASYA VENTURES PRIVATE LIMITED | All
+				&copy;Copyright 2012 - 2025 | TAVASYA VENTURES PRIVATE LIMITED | All
 				Rights Reserved
 			</p>
 		</footer>
