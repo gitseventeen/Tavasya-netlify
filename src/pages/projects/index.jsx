@@ -183,11 +183,8 @@ export default function Projects() {
 				" A 24.5 MW hydroelectric power plant located in Chhattisgarh, India, with the entire civil and hydro mechanical work awarded to Tavasya by Chhattisgarh Hydro Project LLP.",
 			paths: [
 				"/images/companies/18/5.webp",
-
 				"/images/companies/18/4.webp",
-
 				"/images/companies/18/3.webp",
-
 				"/images/companies/18/6.webp",
 				"/images/companies/18/7.webp",
 				"/images/companies/18/8.webp",
