@@ -16,6 +16,7 @@ import company6 from "../../../public/images/home/company-6.png"
 import company7 from "../../../public/images/home/company-7.png"
 import company8 from "../../../public/images/home/company-8.png"
 import company9 from "../../../public/images/home/company-9.png"
+import company14 from "../../../public/images/home/company-14.png"
 
 const buttonStyle = {
 	width: "30px",
@@ -251,6 +252,12 @@ const InfiniteComponent = () => {
 					src={company7}
 					loading="lazy"
 					alt="waaree company logo"
+				/>
+				<Image
+					className={styles.company}
+					src={company14}
+					loading="lazy"
+					alt="sarda company logo"
 				/>
 			</Slide>
 		</div>
